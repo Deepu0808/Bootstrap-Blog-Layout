@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 Live Demo
-🔗 [View on GitHub Pages](https://Deepu0808.github.io/Bootstrap-Blog-Layout/)
+🔗 [View on GitHub Pages](https://github.com/Deepu0808/Bootstrap-Blog-Layout.git)
 
 ---
 
